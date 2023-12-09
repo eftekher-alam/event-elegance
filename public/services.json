@@ -1,0 +1,80 @@
+[
+    {
+        "id": 1,
+        "title": "Grand Wedding Celebration",
+        "image": "https://i.ibb.co/0nGQVhb/Anniversary.webp",
+        "type_of_event": "Wedding",
+        "short_description": "A spectacular wedding ceremony with all the bells and whistles.",
+        "details": {
+            "duration": "2 days",
+            "number_of_people": 200,
+            "long_description": "Join us for a two-day extravaganza celebrating the union of John and Jane. It will be a weekend filled with love, laughter, and memories that will last a lifetime. From the elegant ceremony to the lively reception, this wedding is not to be missed."
+        },
+        "price": "$15,000"
+    },
+    {
+        "id": 2,
+        "title": "Birthday Bash",
+        "image": "https://i.ibb.co/v4KwddV/Birthday-Party-min.jpg",
+        "type_of_event": "Birthday Party",
+        "short_description": "A fun-filled birthday celebration for all ages.",
+        "details": {
+            "duration": "1 day",
+            "number_of_people": 50,
+            "long_description": "Come and celebrate Sarah's 30th birthday in style! We have planned an exciting day filled with games, delicious food, and a surprise live band performance. It's a party you won't want to miss."
+        },
+        "price": "$2,000"
+    },
+    {
+        "id": 3,
+        "title": "Silver Anniversary Soiree",
+        "image": "https://i.ibb.co/CJRfJv9/Wedding-min.jpg",
+        "type_of_event": "Anniversary",
+        "short_description": "A glamorous silver anniversary celebration for a loving couple.",
+        "details": {
+            "duration": "1 day",
+            "number_of_people": 100,
+            "long_description": "Join us as we celebrate 25 years of love and togetherness with John and Mary. This elegant evening will include a romantic dinner, dancing, and a heartfelt speech from the couple. Dress in your finest attire and be part of this special milestone."
+        },
+        "price": "$5,000"
+    },
+    {
+        "id": 4,
+        "title": "Engagement Extravaganza",
+        "image": "https://i.ibb.co/0nGQVhb/Anniversary.webp",
+        "type_of_event": "Engagement Party",
+        "short_description": "A joyful engagement party to celebrate love and commitment.",
+        "details": {
+            "duration": "1 day",
+            "number_of_people": 80,
+            "long_description": "Join us as we toast to the newly engaged couple, Alex and Emily. The evening will be filled with love, laughter, and a surprise proposal reenactment that you won't want to miss. It's a night of celebration and romance."
+        },
+        "price": "$3,000"
+    },
+    {
+        "id": 5,
+        "title": "Retirement Celebration",
+        "image": "https://i.ibb.co/v4KwddV/Birthday-Party-min.jpg",
+        "type_of_event": "Retirement Party",
+        "short_description": "A farewell party to honor years of hard work and dedication.",
+        "details": {
+            "duration": "1 day",
+            "number_of_people": 60,
+            "long_description": "Join us as we bid farewell to Mark, who has dedicated 40 years to the company. It's time to celebrate his retirement with a memorable party. There will be speeches, gifts, and plenty of nostalgia as we honor his incredible career."
+        },
+        "price": "$2,500"
+    },
+    {
+        "id": 6,
+        "title": "Baby Shower Celebration",
+        "image": "https://i.ibb.co/CJRfJv9/Wedding-min.jpg",
+        "type_of_event": "Baby Shower",
+        "short_description": "A joyful celebration of the upcoming arrival of a new bundle of joy.",
+        "details": {
+            "duration": "1 day",
+            "number_of_people": 30,
+            "long_description": "Join us as we shower Sarah with love and gifts to welcome her little one into the world. It's a day of games, laughter, and cute baby-themed decorations. Let's celebrate this exciting chapter in Sarah's life!"
+        },
+        "price": "$1,500"
+    }
+]
